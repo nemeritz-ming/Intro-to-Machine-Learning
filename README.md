@@ -1,1 +1,2 @@
-# Intro-to-Machine-Learning
+# Intro to Machine Learning
+## this is about all assignments of ANU course comp6670
